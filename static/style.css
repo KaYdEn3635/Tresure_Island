@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    padding: 2rem;
+    text-align: center;
+}
+
+input,button {
+    padding: 10px;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.message {
+    color: yellow;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+.ascii-art {
+    color: #00ff99;
+    font-family: monospace;
+    font-size: 10px;
+    white-space: pre;
+    overflow-x: auto;
+    margin-bottom: 20px;
+}
